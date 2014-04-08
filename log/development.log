@@ -1,0 +1,6 @@
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-08 18:31:48 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Dan/.rvm/gems/ruby-2.0.0-p353/gems/railties-4.0.2/lib/rails/templates/rails/welcome/index.html.erb (6.9ms)
+Completed 200 OK in 128ms (Views: 105.5ms | ActiveRecord: 0.0ms)
